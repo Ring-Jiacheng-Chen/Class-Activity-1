@@ -1,0 +1,7 @@
+Name: Arjun Deopujari
+ID: ajd4mq
+
+
+I have experience with arduino as well as AVR microcontroller programming with Atmel Studio 7.  I have
+also worked with ESP8266 (micropython) and some msp430.  I can do some DSP programming and have done
+I2C, UART, and SPI.
