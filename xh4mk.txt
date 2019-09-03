@@ -1,0 +1,8 @@
+XuHai Huang (Jack)
+xh4mk
+
+I do not have any experience with embedded systems. I have some experience with Java, Python, and Matlab.
+
+I am interested in this course because some parts of my research requires programing microcontrollers and would
+like to take a course to help me in that regards. From this course, I would like to learn how to program microcontrollers
+and learn about the high and low level of embeded systems.
