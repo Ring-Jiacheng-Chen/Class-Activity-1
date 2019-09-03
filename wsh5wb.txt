@@ -1,0 +1,5 @@
+Wade Hisiro (wsh5wb)
+My only background in embedded is the Intro to Embedded (ECE 3430) course last fall. My other courses with programming were CS 1110, CS 2110, CS 2150, and CS 4102.
+The programming languages I've used are C, C++, Java, and Python.
+My interests include running, hiking, working out, and playing/watching various sports. I expect to get a deeper knowledge of embedded systems and how to apply
+it in a business setting.
