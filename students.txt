@@ -1,2 +1,6 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
-Liam Robb, lr2hb, https://github.com/lr2hb/Class-Activity-0.git
+Liam Robb, lr2hb, https://github.com/lr2hb/Class-Activity-0
+Natalie Lerma, nrl5fh, https://github.com/NatalieLerma/Class-Activity-0
+Josh Laney, jal3qa, https://github.com/JoshLaney/Class-Activity-0
+Steve Phan, sp4tj, https://github.com/stevephan98/Class-Activity-0
+Thu Tran, tmt4bb, https://github.com/tmt4bb/Class-Activity-0
