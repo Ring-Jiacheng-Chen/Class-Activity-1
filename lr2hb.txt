@@ -1,0 +1,7 @@
+Liam Robb, lr2hb
+I have taken Embedded previously, I have a little experience in using embedded systems at home, but 
+not extensive. I have used java, python, C, C++, and a few others, but I can learn pretty easily.
+
+I would like to get more comfortable doing embedded computing becuase I would like to have more 
+experience building/coding robots for Capstone. I was also told that this would help me understand 
+operating systems and working with the kernal, which would help before taking OS.
