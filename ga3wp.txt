@@ -1,0 +1,3 @@
+Gunther Abbot, ga3wp
+The only real experience I have with embedded systems is through the undergrad intro class (ECE 3430). I have taken up to CS 4102 "Algorithms", however, so I have some general programming experience.
+Embedded systems (from my limited experience) seems like one of the most interesting tech fields because of how you get to work with both hardware and software. Really looking forward to diving into RTOS's and exploring some of the challenges that designing/programming embedded devices presents.
