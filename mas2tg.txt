@@ -1,0 +1,3 @@
+Marco A De Souza Azevedo, mas2tg
+I have taken two undergraduate classes on Embedded Systems at UVa (intro & capstone).
+I expect to get a deeper understanding of Embedded Systems, RTOS and their security aspects and considerations. 

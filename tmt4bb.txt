@@ -1,0 +1,4 @@
+Thu Tran (tmt4bb)
+I've taken Intro to Embedded systems and have worked on some small arduino and raspberry pi projects.
+Programming, I'm most comfortable with MATLAB and python but am familiar with JAVA. Also over the summer I looked at mainly assembly code for my internship.
+I'm interested in having the capabilities to design and make cool stuff. I'm expecting from this class to refamiliarize myself with basic embedded concepts as well as learn a lot and hopefully get more comfortable with the different communication protocols. 
