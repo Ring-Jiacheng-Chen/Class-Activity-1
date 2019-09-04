@@ -1,0 +1,7 @@
+name: Nicholas Mohammad
+uva_id: nm9ur
+background:
+    -I have taken the base embedded systems course with Todd Delong
+    -Done several projects with "hobby" boards in the past years
+    -I have programming experience in C, C++, Python, Java, and some D/Rust
+    -I am really interested in robotics and computer vision. I am also very interested in embedded systems because there are so many things that can be done with them. I just want to learn as much as I can about embedded systems and apply them to my personal/academic projects (like capstone, for example)

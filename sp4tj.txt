@@ -1,0 +1,4 @@
+Steve Phan sp4tj
+My background in embedded systems design includes ECE 3430 and working with an Arduino and Raspberry Pi. I have experience with using Python, Java, and C/C++.
+My interests outside of class includes being active outdoors (kayaking, hiking) and photography. On the more professional side, I'm keep up with world politics and emerging technologies. In this class, I would expect to learn more about an operating system and how to program in a more machine level environment. 
+

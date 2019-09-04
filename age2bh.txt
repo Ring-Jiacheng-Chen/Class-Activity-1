@@ -1,0 +1,3 @@
+Adam El Sheikh (age2bh)
+ECE 3430, MSP430, Raspberry Pi, C, C++
+I want to learn more about embedded programming and the applications in which they apply. I also think this will be a good class to take before operating systems as many topics will overlap.

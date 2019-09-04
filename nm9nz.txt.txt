@@ -1,0 +1,5 @@
+Nick Moon
+nm9nz
+ECE 3430 Intro to Embedded Computing
+ECE 4501 FPGA Design
+Interested in computer graphics, computer architecture, hardware focused programming. I hope to get more experience in an embedded environment, get an introduction to the ARM architecture and ISA, and develop a better understanding of computer architecture and optimizing code to work efficiently enough for embedded applications. I also want to have fun with the final project.
