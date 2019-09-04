@@ -1,0 +1,4 @@
+Hi, this is Jiaxi Xu, computing ID: jx2ms
+
+I have taken Computer Architecture ,PLC control courses and have done some simple Single chip microcomputer projects when I was a Mechanic Engineering student. 
+I take this course to get a better understanding of embedded systems, especially after finishing Computer Architecture course.
