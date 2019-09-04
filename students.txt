@@ -1,2 +1,3 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
-https://github.com/tmt4bb/Class-Activity-0.git
+Steve Phan, sp4tj, https://github.com/stevephan98/Class-Activity-0
+Thu Tran, tmt4bb, https://github.com/tmt4bb/Class-Activity-0
