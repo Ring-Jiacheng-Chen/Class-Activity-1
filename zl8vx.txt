@@ -1,0 +1,5 @@
+My name is Ze Liu, and my UVA ID is zl8vx. 
+
+During my undergraduate study, I have taken courses like Digital Circuit and Logic Design, Digital System Design, Microprocessor System Design.I did projects on 8051 microcontroller and Arduino platform about drawing robot.I have used C, JAVA and assembly programming language before.
+
+My interest is about using software and hardware to develop a work platform which can work with 5G network and be widely used in daily life.I want to know how to analyze, work and design an embedded system. 

@@ -1,0 +1,14 @@
+Angelica Sunga
+ams2ez
+I took a undergrad microcomputer systems class which covered basic
+computer organization, microprocessor instruction sets and architectures,
+assembly language and computer memory and I/O subsystems. For labs we used the
+stm3214 discovery board and Keil. I also took an undergrad digital systems
+course which introduced me to modeling, simulation, synthesis
+and FPGA design using VHDL as well as microprocessor interfacing. Labs and
+assignments were done on ModelSim and implemented on the Nexys4 board. Other
+programming languages I know are C, C++, Python and MATLAB.
+My interests include cyber physical systems and the application of control
+theory and models to analyze and identify hazards in cyber physical systems. I
+hope this class will give me insight in design obstacles involved in embedded
+system hardware and software.
