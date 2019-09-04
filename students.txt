@@ -1,4 +1,5 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Ze Liu, zl8vx, https://github.com/Ze-Liu/Class-Activity-0
 William Kodama, wk4ds, https://github.com/wskodama/Class-Activity-0.git
 Nick Moon, nm9nz, https://github.com/NicholasMoon/Class-Activity-0
 Angelica Sunga, ams2ez, https://github.com/ams2ez/Class-Activity-0
