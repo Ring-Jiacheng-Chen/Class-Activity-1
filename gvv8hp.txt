@@ -1,0 +1,4 @@
+Gregory Vavoso
+gvv8hp
+I have taken CS2150, Intro to Embedded, and have worked with C during an internship. I have also coded in various other languages for side projects, such as Java, Python, Matlab, etc.
+I enjoy programming and making applications to make my life and my friends lives' easier. I also enjoy working with microcontrollers for more physical projects that aren't entirely software based. I look forward to working with more modern embedded technology and learning how to program microcontrollers for real world applications. 
