@@ -1,0 +1,5 @@
+Dalton Applegate
+dna3cg
+Intro to Embedded Computing
+TA for new Embedded Comp and Robotics course (MSP430 and 432, some arduino)
+I hope to get better at understanding embedded computing and the different nuances between it and other types of programming. Additionally, I want to understand it better so that I don't run into issues with passion projects involving embedded computers.
