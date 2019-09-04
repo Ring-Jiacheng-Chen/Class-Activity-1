@@ -1,0 +1,4 @@
+Jake Nelson, jn8vc
+I took a course a couple of years ago which included programming arduinos. I helped develop an R package and have experience programming in R. I have experience programming in VBA and little experience programming in Python. I am currently registered to take a 6-week refresher Python course through the library.
+I am interested in hydrology, smart water/wastewater utility systems, and data management. I would like to get hands-on experience programming and implementing embedded systems to be able to better understand how they can be used. I would like to identify ways which embedded systems could be used to improve existing non-smart water/wastewater utilities.
+ 
