@@ -1,0 +1,16 @@
+Nate Geerdes
+ng4vt
+
+I have taken Introduction to Embedded Systems with 
+Todd DeLong and am now TAing the class for the 3rd
+semester in a row. I have done a few small self 
+projects with Arduino and competed in Robotics in 
+High School. I also worked an internship this past
+summer coding for embedded systems in C and Python.
+
+I am interested in the full development and design
+process of embedded systems, including putting
+together hardware and writing software. I hope to
+learn more about the full development process in
+this class, as well as best practices and ways for 
+optimizations.
