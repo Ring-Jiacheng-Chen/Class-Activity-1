@@ -1,0 +1,10 @@
+Sean Reihani
+sr9gv
+
+Prior relevant coursework consists of Introduction to Embedded Systems and CS 2150. Over the summer, part of my project
+for my lab consisted of implementing USART based SPI on an Atmel SAM3X8E.
+
+My interests include low level programming, information security, and software engineering. In this class, I expect to 
+significantly increase my proficiency in embedded programming, as well as learning the fundamentals of operating
+systems. Following the conclusion of the course, I am thinking about implementing an RTOS on another microcontroller,
+such as the Atmel SAM3X8E I previously worked on.

@@ -1,0 +1,12 @@
+Name: 
+UVA ID: 
+Background in Embedded Systems: N/A - Ocean Engineer/Offshore and Coastal
+                                Systems Engineering ==> Civil Engineering PhD
+                                NRT-CPS Program
+                                Programming Languages: MatLab, Python, JavaScript, HTML5
+
+I hope to learn about how I may use embedded systems to monitor environmental conditions 
+within coastal communities to build smart cities. I also hope that I may use the knowledge acquired
+in this course to create my own devices that can obtain the information I need for my research.
+I don't really have a background in Embedded Systems nor have I taken a course on Computer 
+Architecture, C/C++ etc. 

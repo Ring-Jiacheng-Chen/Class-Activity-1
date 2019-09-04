@@ -1,0 +1,8 @@
+Reinaldo Christian Reinaldo - rcr9gn
+
+I took a microcontrollers class as an undergraduate, but I have not taken an
+embedded systems class before. When it comes to microcontrollers, I have stuck
+with arduino, and I have mostly programmed using c and python.
+
+As a student, I enjoy learning control theory and digital signal processing. On
+my free time, I enjoy learning different forms of martial arts.
