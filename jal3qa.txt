@@ -1,0 +1,5 @@
+Josh Laney, jal3qa
+
+I've taken intro to embedded, and my internship over the summer involved me designing and programming a custom embedded system.
+
+I'm intrested in how computers work and are hidden and used in the world around us. Outside of class I like to climb, ski, and build mechanical keyboards. I hope to gain a deeper understanding of embedded computing and a baseline understanding of operating systems to help me succeed in os next semester.
