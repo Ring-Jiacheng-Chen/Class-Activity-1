@@ -1,0 +1,4 @@
+William Kodama wk4ds
+Intro to embedded, computer architecture, FPGA, ASIC/SOC Design, Intro to VLSI. I have worked in C, C++, C#, Python.
+My interests are in embedded systems and programming on them. I want to learn more about embedded systems and how I can use them in other projects. I also want to understand the difference between the many options out there on the market and take advantage of each of them.
+
