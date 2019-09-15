@@ -1,3 +1,3 @@
 Name: Jiacheng Chen jc6ga
 I have used STM32F1 and F4 to do projects with C
-I am interested in making robots. By taking this course, I wish to learn about the skills to manipulate an embedded system and make something by myself.
+I am interested in making robots. By taking this course, I wish to learn about the skills to manipulate an embedded system and make something with my effort.
